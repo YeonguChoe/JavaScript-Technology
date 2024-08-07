@@ -4,7 +4,10 @@
 - [Babel](Babel)
 - [Webpack]()
 
-
+- React
+- React-Router
+- TailwindCSS
+- D3.js
 
 ## npm
 
