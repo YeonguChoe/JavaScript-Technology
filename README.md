@@ -9,6 +9,8 @@
 - [Tailwind CSS](Tailwind%20CSS)
 - D3.js
 
+- Fetch API
+
 ## npm
 
 - npx가 안될때 .npm 디렉토리이하의 모든 파일들에 rwx 권한을 부여한다.
