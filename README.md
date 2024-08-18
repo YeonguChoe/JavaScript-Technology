@@ -1,14 +1,10 @@
 # JavaScript
 
 ## Tool
-- [Babel](Babel)
 - [Webpack]()
-
 - React
 - React-Router
 - [Tailwind CSS](Tailwind%20CSS)
-- D3.js
-
 - Fetch API
 
 ## npm
