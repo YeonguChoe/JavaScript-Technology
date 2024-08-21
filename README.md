@@ -3,6 +3,7 @@
 ## Node.js 런타임
 - [설치 방법](NodeJS/Installation%20guide.md)
 - [외부 모듈 사용 방법](NodeJS/External%20module%20guide.md)
+- [Node-API를 이용해서 C/C++ 코드를 사용하는 방법](https://nodejs.org/api/n-api.html)
 
 ## Tool
 - [Webpack]()
