@@ -15,6 +15,9 @@
 - Fetch API
 - ~~[Axios](Axios)~~
 
+### WebSocket
+- [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+
 ## NPM
 
 - npx가 안될때 .npm 디렉토리이하의 모든 파일들에 rwx 권한을 부여한다.
