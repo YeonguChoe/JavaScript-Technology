@@ -13,7 +13,7 @@
 
 ### REST API
 - Fetch API
-- [Axios](Axios)
+- ~~[Axios](Axios)~~
 
 ## NPM
 
